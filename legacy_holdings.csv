@@ -1,0 +1,4 @@
+holding_id,client_id,product_type,product_name,quantity,buy_price,buy_date
+101,1,Bond,NHAI Bond 2025,50,980.0,2021-01-10
+102,1,Stock,Infosys Ltd,20,1500.5,2022-07-12
+103,2,Option,Nifty 50 Call Option,5,200.0,2023-03-15
